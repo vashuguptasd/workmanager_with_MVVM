@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Workmanager Test Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a_day_without_family_is_a_day_wasted">A Day Without Family is A Day Wasted</string>
+</resources>
